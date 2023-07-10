@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arpna</h1>
 <h3 align="center">An aspiring software developer from India</h3>
 
-<img align="right" alt="Coder" width="400" src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
+<img align="right" alt="Coder" width="400" src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif](https://github.com/anushkayadav">
 
 - 🔭 I’m currently working on **Full Stack Projects**
 
